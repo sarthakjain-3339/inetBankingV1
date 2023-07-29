@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.m2e.Maven2LaunchConfigurationType">
+    <booleanAttribute key="M2_BATCH" value="false"/>
+    <stringAttribute key="M2_GOALS" value="-U archetype:generate"/>
+    <listAttribute key="M2_PROPERTIES">
+        <listEntry value="jiraVersion=5.2.11"/>
+        <listEntry value="jiraDataVersion=5.2.11"/>
+        <listEntry value="confluenceVersion=5.5"/>
+        <listEntry value="confluenceDataVersion=5.5"/>
+        <listEntry value="bambooVersion=4.4.5"/>
+        <listEntry value="bambooDataVersion=3.2.2"/>
+        <listEntry value="stashVersion=2.4.1"/>
+        <listEntry value="stashDataVersion=2.4.1"/>
+        <listEntry value="crowdVersion=2.5.2"/>
+        <listEntry value="crowdDataVersion=2.5.2"/>
+        <listEntry value="fecruVersion=2.8.1-20120829051639"/>
+        <listEntry value="fecruDataVersion=2.8.1-20120829051639"/>
+        <listEntry value="refappVersion=2.20.0"/>
+        <listEntry value="archetypeGroupId=com.atlassian.maven.archetypes"/>
+        <listEntry value="archetypeArtifactId=jira-plugin-archetype"/>
+        <listEntry value="archetypeVersion=5.0.18"/>
+        <listEntry value="groupId=testAutomationProject"/>
+        <listEntry value="artifactId=com.autoteam.sakbanking-group"/>
+        <listEntry value="version=0.0.1-SNAPSHOT"/>
+        <listEntry value="package=testAutomationProject.com.autoteam.sakbanking_group"/>
+        <listEntry value="outputDirectory=C:\Users\ADMIN\eclipse-workspace"/>
+    </listAttribute>
+    <booleanAttribute key="M2_SAVE_BEFORE_LAUNCH" value="false"/>
+    <booleanAttribute key="org.eclipse.debug.ui.private" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="C:\Users\ADMIN\AppData\Local\Temp\m2e-archetypeGenerator886341006578147926"/>
+</launchConfiguration>
